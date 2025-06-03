@@ -49,8 +49,9 @@ Open the terminal and run the following command:
 ```bash
 git clone https://github.com/ltdrdata/ComfyUI-Manager.git
 git clone https://github.com/neverbiasu/ComfyUI-BAGEL.git
+```bash
 
-3.**Download the BAGEL model file:
+3.Download the BAGEL model file:
 Download the model to the following directory:
 models/bagel/BAGEL-7B-MoT
 
@@ -58,6 +59,7 @@ models/bagel/BAGEL-7B-MoT
 If you are my Patreon member, I have prepared a one-click installation package for you, no command line operation required:
 
 👉 Click here to visit the Patreon script address
+https://www.patreon.com/posts/unified-model-in-130072107
 
 Automatically download models and plug-ins
 
@@ -75,7 +77,7 @@ Use BAGEL's "visual modification ability" for partial image editing
 ❤️ Support me to continue creating?
 If you like this kind of content, please support me through Patreon so that I can continue to produce:
 
-👉 Click to become a member
+👉 [Click to become a member](https://www.patreon.com/c/qqqaibignews)
 
 Thank you for your support!
 
