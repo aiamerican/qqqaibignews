@@ -46,10 +46,8 @@ ComfyUI is the operating framework of BAGEL (visual AI process tool)
 2. **Install custom node plugin**:
 Open the terminal and run the following command:
 
-```bash
 git clone https://github.com/ltdrdata/ComfyUI-Manager.git
 git clone https://github.com/neverbiasu/ComfyUI-BAGEL.git
-```bash
 
 3.Download the BAGEL model file:
 Download the model to the following directory:
@@ -58,8 +56,7 @@ models/bagel/BAGEL-7B-MoT
 ⚡ One-click installation (recommended for supporters)
 If you are my Patreon member, I have prepared a one-click installation package for you, no command line operation required:
 
-👉 Click here to visit the Patreon script address
-https://www.patreon.com/posts/unified-model-in-130072107
+👉 [Click here to visit the Patreon script address]https://www.patreon.com/posts/unified-model-in-130072107
 
 Automatically download models and plug-ins
 
