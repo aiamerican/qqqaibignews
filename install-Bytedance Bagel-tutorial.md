@@ -29,7 +29,7 @@ Whether your goal is image understanding, generation, or modification, BAGEL can
 
 📺 **Video full tutorial link**:
 
-[Click to watch Windows installation tutorial (YouTube)](https://youtu.be/qjm4esg3Wh0)
+[Click to watch Windows installation tutorial (YouTube)](https://youtu.be/2OxFAsRUGOg)
 
 ---
 
