@@ -19,7 +19,7 @@ Updated May , 2025
 
 Windows tutorial published
 
-Full tutorial link: https://youtu.be/eeQPbEreOak
+Full tutorial link: https://youtu.be/NnFjudh4W1g
 
 Watch the Windows tutorial to learn how to install VACE. You won't regret it, it's awesome. After installation, please download the attached vace_workflow into comfy ui, and then start generate video.
 
