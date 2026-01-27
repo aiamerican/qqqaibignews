@@ -44,10 +44,15 @@ ComfyUI_windows_portable/ComfyUI/custom_nodes
 Then run:
 
 git clone https://github.com/ltdrdata/ComfyUI-Manager.git
+
 git clone https://github.com/city96/ComfyUI-GGUF.git
+
 git clone https://github.com/rgthree/rgthree-comfy.git
+
 git clone https://github.com/yolain/ComfyUI-Easy-Use.git
+
 git clone https://github.com/kijai/ComfyUI-KJNodes.git
+
 git clone https://github.com/Lightricks/ComfyUI-LTXVideo.git
 
 ---
