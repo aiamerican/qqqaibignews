@@ -66,19 +66,33 @@ Without FFmpeg, video generation will fail.
 2.Run the following git clone commands:
 
 git clone https://github.com/ltdrdata/ComfyUI-Manager.git
+
 git clone https://github.com/city96/ComfyUI-GGUF
+
 git clone https://github.com/rgthree/rgthree-comfy
+
 git clone https://github.com/yolain/ComfyUI-Easy-Use
+
 git clone https://github.com/kijai/ComfyUI-KJNodes
+
 git clone https://github.com/ClownsharkBatwing/RES4LYF
+
 git clone https://github.com/Lightricks/ComfyUI-LTXVideo
+
 git clone https://github.com/pythongosssss/ComfyUI-Custom-Scripts
+
 git clone https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
+
 git clone https://github.com/kijai/ComfyUI-WanVideoWrapper
+
 git clone https://github.com/ltdrdata/ComfyUI-Impact-Pack
+
 git clone https://github.com/TTPlanetPig/Comfyui_TTP_Toolset
+
 git clone https://github.com/evanspearman/ComfyMath
+
 git clone https://github.com/Fannovel16/comfyui_controlnet_aux.git
+
 git clone https://github.com/akatz-ai/ComfyUI-DepthCrafter-Nodes.git
 
 3.Install dependencies (run these commands from the ComfyUI root folder):
@@ -86,18 +100,31 @@ git clone https://github.com/akatz-ai/ComfyUI-DepthCrafter-Nodes.git
 ..\..\python_embeded\python.exe -m pip install -U pip
 
 ..\..\python_embeded\python.exe -m pip install -r custom_nodes\ComfyUI-Manager\requirements.txt
+
 ..\..\python_embeded\python.exe -m pip install -r custom_nodes\ComfyUI-GGUF\requirements.txt
+
 ..\..\python_embeded\python.exe -m pip install -r custom_nodes\rgthree-comfy\requirements.txt
+
 ..\..\python_embeded\python.exe -m pip install -r custom_nodes\ComfyUI-Easy-Use\requirements.txt
+
 ..\..\python_embeded\python.exe -m pip install -r custom_nodes\ComfyUI-KJNodes\requirements.txt
+
 ..\..\python_embeded\python.exe -m pip install -r custom_nodes\RES4LYF\requirements.txt
+
 ..\..\python_embeded\python.exe -m pip install -r custom_nodes\ComfyUI-LTXVideo\requirements.txt
+
 ..\..\python_embeded\python.exe -m pip install -r custom_nodes\ComfyUI-Custom-Scripts\requirements.txt
+
 ..\..\python_embeded\python.exe -m pip install -r custom_nodes\ComfyUI-VideoHelperSuite\requirements.txt
+
 ..\..\python_embeded\python.exe -m pip install -r custom_nodes\ComfyUI-WanVideoWrapper\requirements.txt
+
 ..\..\python_embeded\python.exe -m pip install -r custom_nodes\ComfyUI-Impact-Pack\requirements.txt
+
 ..\..\python_embeded\python.exe -m pip install -r custom_nodes\ComfyMath\requirements.txt
+
 ..\..\python_embeded\python.exe -m pip install -r custom_nodes\comfyui_controlnet_aux\requirements.txt
+
 ..\..\python_embeded\python.exe -m pip install -r custom_nodes\ComfyUI-DepthCrafter-Nodes\requirements.txt
 
 Step 4: Launch ComfyUI and TestDouble-click run_nvidia_gpu.bat in the ComfyUI root folder to start.
